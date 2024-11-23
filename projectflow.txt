@@ -11,3 +11,6 @@ now ot will ask to do : ("git -r --cache ).....
 9- Now -"dvc commit" and then "dvc push"
 10-Now make changes to mycode.py to append a newrow in data, check changes via "dvc status" 
 11- again "dvc commit" and then "dvc push"
+12- then git add - commit -push (saving version 2 of our data)
+13- chech dvc/git status, everything should be upto date.
+14- repeate same 10-12 steps for v3 data
